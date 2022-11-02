@@ -1,0 +1,19 @@
+.T1{
+    color: rgb(58, 58, 58);
+    background-color: rgb(206, 250, 250);
+}
+body{      
+    background-image: url(https://img.freepik.com/vector-premium/dibujos-animados-chef-chico_33070-3740.jpg?w=740);
+    background-size: cover;
+      
+}
+.button{
+    background-color: rgba(153, 255, 0, 0.616);
+    border-color: black;
+}
+.button p{
+    color: gray;
+}
+td{
+    background-color: rgba(247, 195, 83, 0.308);
+}
